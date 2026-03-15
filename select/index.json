@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "はちゃめちゃわちゃライフ！ -TV size-",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-03-15T12:00:54.438078Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はちゃめちゃわちゃライフ！",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/01_はちゃめちゃわちゃライフ!_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はちゃめちゃわちゃライフ!",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_はちゃめちゃわちゃライフ!_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
